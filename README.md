@@ -15,6 +15,7 @@ plugin. Based on a dockerfile file, maven generates an image according to the ta
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [ScreenShots](#screenshots)
 
 ## Installation
 
@@ -63,3 +64,12 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 When contributing to this project, please follow the existing code style, [commit conventions](https://www.conventionalcommits.org/en/v1.0.0/), and submit your changes in a separate branch.
 
+## Screenshots
+Actuator
+![Actuator](https://github.com/jonasfschuh/docker-maven/blob/main/docs/img/actuator.gif?raw=true&sanitize=true)
+
+Hello test example
+![HellpTest](https://github.com/jonasfschuh/docker-maven/blob/main/docs/img/hello.jpg?raw=true&sanitize=true)
+
+Docker Hub Tags
+![Dockerhub](https://github.com/jonasfschuh/docker-maven/blob/main/docs/img/docker_hub.gif?raw=true&sanitize=true)
